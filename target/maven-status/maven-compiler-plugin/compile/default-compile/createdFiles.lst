@@ -1,0 +1,15 @@
+com\tdea\mcp_banco\service\BancoService.class
+com\tdea\mcp_banco\model\Cuenta.class
+com\tdea\mcp_banco\dto\Dtos$MovimientoDto.class
+com\tdea\mcp_banco\repository\SolicitudCreditoRepository.class
+com\tdea\mcp_banco\McpBancoApplication.class
+com\tdea\mcp_banco\tools\BancoTools.class
+com\tdea\mcp_banco\dto\Dtos.class
+com\tdea\mcp_banco\repository\CuentaRepository.class
+com\tdea\mcp_banco\model\Movimiento.class
+com\tdea\mcp_banco\dto\Dtos$CuentaDto.class
+com\tdea\mcp_banco\model\SolicitudCredito.class
+com\tdea\mcp_banco\repository\MovimientoRepository.class
+com\tdea\mcp_banco\DatosIniciales.class
+com\tdea\mcp_banco\dto\Respuesta.class
+com\tdea\mcp_banco\dto\Dtos$CreditoDto.class
